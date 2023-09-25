@@ -2,7 +2,7 @@ import httpx
 import base64
 import json
 import random
-print("Made by: YeetDisDude! https://discord.gg/pg3d\n")
+print("Made by: YeetDisDude\n")
 
 PROJECT_ID = 196500
 MERCHANT_ID = 319917
